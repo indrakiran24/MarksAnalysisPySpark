@@ -38,12 +38,12 @@ The goal is to process raw marks data, clean it, transform it, calculate totals,
 
 ##  Features
 
-✔️ Data cleaning (handling `A`, `AB`, `MP`, `null` values)
-✔️ Total marks calculation & percentage computation
-✔️ Grade assignment based on performance
-✔️ Exploratory analysis with Pandas & Seaborn visualizations
-✔️ Cross-tabulations and heatmaps for deeper insights
-✔️ Integration of **PySpark (Big Data)** with **Pandas (Analysis & Visualization)**
+ Data cleaning (handling `A`, `AB`, `MP`, `null` values)
+ Total marks calculation & percentage computation
+ Grade assignment based on performance
+ Exploratory analysis with Pandas & Seaborn visualizations
+ Cross-tabulations and heatmaps for deeper insights
+ Integration of **PySpark (Big Data)** with **Pandas (Analysis & Visualization)**
 
 ---
 
